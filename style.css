@@ -17,10 +17,27 @@ span{
      text-decoration: none;
      font-family: 'Courier New', Courier, monospace;
  }
-.bemutatkozas{
+.elerhetoseg{
     padding:20px ;
 }
 #kepek{
     width: 500px;
-float: right ;
+    float: right ;
+}
+.adam{
+    text-align: left;
+}
+.kevin{
+    margin:  auto calc(2048px - 1200px);
+}
+.gergo{
+    margin: auto calc(2048px - 400px);
+}
+.elerhetoseg h1{
+    text-align: center;
+    padding: 20px;
+    color: gold;
+}
+.elerhetoseg p{
+    color: yellow;
 }
