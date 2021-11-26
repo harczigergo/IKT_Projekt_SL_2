@@ -5,8 +5,12 @@ body{
     background-color:gray;
     text-align: center;
     padding:20px ;
-    width:100px ;
-    
+    width:100% ;
 
 
+}
+span{
+    padding: 40px;
+    text-align: center;
+    text-decoration: none;
 }
