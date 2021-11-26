@@ -17,3 +17,9 @@ span{
      text-decoration: none;
      font-family: 'Courier New', Courier, monospace;
  }
+.bemutatkozas{
+    padding:20px ;
+}
+#kepek{
+    width: 500px;
+}
