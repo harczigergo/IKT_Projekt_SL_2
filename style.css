@@ -1,16 +1,19 @@
 body{
     margin: 0%;
+    background-color:gray;
 }
 .header{
-    background-color:gray;
+    background-color:black;
     text-align: center;
     padding:20px ;
     width:100% ;
-
-
 }
 span{
     padding: 40px;
     text-align: center;
-    text-decoration: none;
 }
+ a{
+     color: yellow;
+     text-decoration: none;
+     font-family: 'Courier New', Courier, monospace;
+ }
