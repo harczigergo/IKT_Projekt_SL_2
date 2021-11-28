@@ -41,7 +41,27 @@ span{
 .elerhetoseg p{
     color: yellow;
 }
-.tesla img{
-    width: 759px;
+.tesla{
+    width: 755px;
     float: left;
+    text-align: center;
+    margin: 10px 0px;
+    padding-bottom: 15px;
+    border: 2px solid black;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: italic;
+}
+.tesla img{
+    width: 755px;
+}
+.container h1{
+    color: gold;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    padding: 30px auto;
+    font-family: 'Times New Roman', Times, serif;
 }
