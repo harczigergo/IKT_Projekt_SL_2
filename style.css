@@ -41,8 +41,8 @@ span{
 .elerhetoseg p{
     color: yellow;
 }
-.tesla{
-    width: 755px;
+.tesla{  
+    width:956px;
     float: left;
     text-align: center;
     margin: 10px 0px;
@@ -54,7 +54,7 @@ span{
     font-style: italic;
 }
 .tesla img{
-    width: 755px;
+    width: 956px;
 }
 .container h1{
     color: gold;
