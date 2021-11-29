@@ -65,3 +65,16 @@ span{
     padding: 30px auto;
     font-family: 'Times New Roman', Times, serif;
 }
+.rólunk{
+    padding-left: 900px;
+    text-align: justify;
+}
+#felhívás{
+    color:red;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    padding: 30px auto;
+    font-family: 'Times New Roman', Times, serif;
+}
