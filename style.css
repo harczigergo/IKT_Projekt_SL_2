@@ -41,8 +41,8 @@ span{
 .elerhetoseg p{
     color: yellow;
 }
-.tesla{
-    width: 755px;
+.tesla{  
+    width:956px;
     float: left;
     text-align: center;
     margin: 10px 0px;
@@ -54,10 +54,23 @@ span{
     font-style: italic;
 }
 .tesla img{
-    width: 755px;
+    width: 956px;
 }
 .container h1{
     color: gold;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    padding: 30px auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+.rólunk{
+    padding-left: 900px;
+    text-align: justify;
+}
+#felhívás{
+    color:red;
     text-align: center;
     text-decoration: underline;
     font-style: italic;
