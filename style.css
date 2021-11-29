@@ -66,7 +66,7 @@ span{
     font-family: 'Times New Roman', Times, serif;
 }
 .rólunk{
-    padding-left: 900px;
+    padding-left: 650px;
     text-align: justify;
 }
 #felhívás{
@@ -92,5 +92,8 @@ span{
 #logo{
     float: left;
     width: 600px;
+    margin-left: 150px;
+}
+img{
     border-radius: 20px;
 }
