@@ -91,4 +91,13 @@ span{
 }
 #logo{
     float: left;
+}.űrlap{
+    width: 800px;
+    margin: 20px auto;
+    background-color: gold;
+    width: 600px;
+    margin-left: 150px;
+}
+img{
+    border-radius: 20px;
 }
