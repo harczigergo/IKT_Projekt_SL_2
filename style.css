@@ -97,3 +97,11 @@ span{
 img{
     border-radius: 20px;
 }
+.bemutatkozas{
+    padding-left: 1000px;
+    text-align: justify;  
+}
+.auto{
+    padding-right: 950px;
+    text-align: justify;  
+} 
