@@ -98,15 +98,22 @@ img{
     border-radius: 20px;
 }
 .bemutatkozas{
-    padding-left: 1000px;
+    padding-left: 750px;
     text-align: justify;  
 }
 .auto{
-    padding-right: 950px;
+    padding-right: 750px;
     text-align: justify;  
 } 
 #autók{
     width: 500px;
     height: 500px;  
     float: right;
+margin-right: 100px;
+}
+#auto1{
+    width: 500px;
+    height: 400px;  
+    float: left;
+margin-left: 100px;  
 }
