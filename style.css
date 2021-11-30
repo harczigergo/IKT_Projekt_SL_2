@@ -110,6 +110,12 @@ span{
 .űrlap p{
     padding: 15px;
 }
+.űrlap h1{
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+}
 img{
     border-radius: 20px;
 }
