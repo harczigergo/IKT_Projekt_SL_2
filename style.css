@@ -1,6 +1,6 @@
 body{
     margin: 0%;
-    background-color:gray;
+    background-color:lightslategray;
 }
 .header{
     background-color:black;
@@ -91,12 +91,24 @@ span{
 }
 #logo{
     float: left;
-}.űrlap{
-    width: 800px;
+}
+.űrlap{
+    width: 1000px;
     margin: 20px auto;
     background-color: gold;
-    width: 600px;
-    margin-left: 150px;
+    margin-left: 350px;
+    border: 1px solid black;
+    border-radius: 25px;
+    text-align: left;
+}
+.űrlap span{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding: 25px;
+}
+.űrlap p{
+    padding: 15px;
 }
 img{
     border-radius: 20px;
@@ -113,11 +125,11 @@ img{
     width: 500px;
     height: 500px;  
     float: right;
-margin-right: 100px;
+    margin-right: 100px;
 }
 #auto1{
     width: 500px;
     height: 400px;  
     float: left;
-margin-left: 100px;  
+    margin-left: 100px;  
 }
