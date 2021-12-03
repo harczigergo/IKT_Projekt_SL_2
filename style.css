@@ -1,6 +1,11 @@
 body{
     margin: 0%;
     background-color:lightslategray;
+    background-image: url(háttér.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1750px;
+    
 }
 .header{
     background-color:black;
@@ -28,10 +33,11 @@ span{
     text-align: left;
 }
 .kevin{
-    margin:  auto calc(2048px - 1200px);
+    margin:20px calc(2048px - 500);
 }
+    
 .gergo{
-    margin: auto calc(2048px - 400px);
+   text-align: left;
 }
 .elerhetoseg h1{
     text-align: center;
