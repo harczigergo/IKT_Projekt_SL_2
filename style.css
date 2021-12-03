@@ -51,6 +51,7 @@ span{
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
     font-style: italic;
+    border-radius: 20px;
 }
 .tesla img{
     width: 956px;
