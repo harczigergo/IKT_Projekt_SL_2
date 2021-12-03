@@ -43,9 +43,8 @@ span{
 }
 .tesla{  
     width:956px;
-    float: left;
     text-align: center;
-    margin: 10px 0px;
+    margin: 10px calc(2048px - 1590px);
     padding-bottom: 15px;
     border: 2px solid black;
     color: black;
