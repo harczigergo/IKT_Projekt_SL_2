@@ -4,8 +4,7 @@ body{
     background-image: url(háttér.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 1750px;
-    
+    background-size: 1910px;    
 }
 .header{
     background-color:black;
@@ -58,8 +57,25 @@ span{
     font-size: larger;
     font-style: italic;
     border-radius: 20px;
+    background-color: white;
 }
 .tesla img{
+    width: 956px;
+}
+.ajanlatok{
+    width:956px;
+    text-align: center;
+    margin: 10px calc(2048px - 1590px);
+    padding-bottom: 15px;
+    border: 2px solid black;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: italic;
+    border-radius: 20px;
+    background-color: white;
+}
+.ajanlatok img{
     width: 956px;
 }
 .container h1{
