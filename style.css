@@ -81,10 +81,26 @@ span{
 .container h1{
     color: black;
     text-align: center;
-    text-decoration: underline;
     font-style: italic;
     font-weight: bold;
     padding: 30px auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container h2{
+    color: black;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+.container p{
+    color: lime;
+    background-color: lightyellow ;
+    text-align: left;
+    padding: 10px 5px;
+    font-weight: bold;
+    font-size: larger;
+    line-height: 150%;
     font-family: 'Times New Roman', Times, serif;
 }
 .rólunk{
@@ -98,6 +114,7 @@ span{
     font-style: italic;
     font-weight: bold;
     padding: 30px auto;
+    font-size: medium;
     font-family: 'Times New Roman', Times, serif;
 }
 .árak th{
@@ -113,6 +130,9 @@ span{
 }
 #logo{
     float: left;
+    margin-left: 170px;
+    border: 2px solid black;
+    border-radius: 20px;
 }
 .űrlap{
     width: 1000px;
