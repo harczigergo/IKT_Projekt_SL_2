@@ -1,7 +1,7 @@
 body{
     margin: 0%;
     background-color:lightslategray;
-    background-image: url(háttér.jpg);
+    background-image: url(új_háttér.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -82,6 +82,7 @@ span{
     color: black;
     text-align: center;
     font-style: italic;
+    font-size: 50px;
     font-weight: bold;
     padding: 30px auto;
     font-family: 'Times New Roman', Times, serif;
@@ -90,18 +91,21 @@ span{
     color: black;
     text-shadow: 1px 1px 0px white;
     text-align: left;
-    font-style: italic;
+    font-size: 30px;
+    font-variant: small-caps;
     font-weight: bold;
     
 }
 .container p{
     color: black;
-    text-shadow: 1px 1px 0px white;
+    text-shadow: 2px 2px 0px white;
     text-align: left;
     padding: 10px 5px;
     font-weight: bold;
     font-size: large;
+    font-size: 30px;
     line-height: 150%;
+    font-variant: small-caps;
     font-family: 'Times New Roman', Times, serif;
 }
 .rólunk{
@@ -115,7 +119,7 @@ span{
     font-style: italic;
     font-weight: bold;
     padding: 30px auto;
-    font-size: medium;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
 .árak th{
