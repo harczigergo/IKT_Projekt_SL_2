@@ -162,15 +162,11 @@ span{
 img{
     border-radius: 20px;
 }
-.bemutatkozas{
-    padding-left: 750px;
-    text-align: justify;  
-}
 .auto{
     padding-right: 750px;
     text-align: justify;  
 } 
-#autók{
+/* #autók{
     width: 500px;
     height: 500px;  
     float: right;
@@ -181,4 +177,68 @@ img{
     height: 400px;  
     float: left;
     margin-left: 100px;  
+} */
+.bemutatkozas p{
+    background-color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: gold;
+    text-shadow: 1px 1px 0px white;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-variant: small-caps;
+    line-height: 200%;
+    padding-bottom: 29px;
+    padding-top: 3px;
+    padding-left: 970px;
+    padding-right: 8px;
+    text-align: justify;  
+}
+#szimbolum{
+    width: 950px;
+    float: left;
+    margin: 0px;
+    border-radius: 0px;
+}
+#auto{
+    width: 950px;
+    float: right;
+    margin: 0px;
+    border-radius: 0px;
+    padding-top: 0px;
+}
+#bemutatkozas{
+    background-color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: gold;
+    text-align: justify;
+    text-shadow: 1px 1px 0px white;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-variant: small-caps;
+    padding-right: 980px;
+    padding-left: 8px;
+    padding-top: 6px;
+    line-height: 180%;
+    padding-bottom: 17px;
+}
+ul{
+    background-color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 970px;
+    padding-left: 40px;
+}
+li{
+    color: gold;
+    text-align: justify;
+    text-shadow: 1px 1px 0px white;
+    font-size: 22px;
+    line-height: 180%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-variant: small-caps;
 }
