@@ -29,23 +29,21 @@ span{
     width: 500px;
     float: right ;
 }
-.adam{
-    text-align: left;
-}
-.kevin{
-    margin:20px calc(2048px - 500);
-}
-    
-.gergo{
-   text-align: left;
+.elerhetoseg{
+    color: black;
+    text-shadow: 2px 2px 1px rgb(255, 255, 76);
+    font-size: 30px;
+    padding: 0px;
+    background-color: rgb(255, 255, 76);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
 }
 .elerhetoseg h1{
     text-align: center;
-    padding: 20px;
-    color: gold;
-}
-.elerhetoseg p{
-    color: yellow;
+    color: black;
+    text-shadow: 1px 1px 0px white;
+    background-color: rgb(255, 255, 76);
 }
 .tesla{  
     width:956px;
