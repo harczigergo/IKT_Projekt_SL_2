@@ -244,3 +244,6 @@ li{
     font-weight: bold;
     font-variant: small-caps;
 }
+link:active{
+   text-decoration: underline;
+}
