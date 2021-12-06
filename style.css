@@ -1,13 +1,12 @@
 body{
     margin: 0%;
-    background-color:lightslategray;
-    background-image: url(új_háttér.png);
+    background-image: url(d55dbd_eb06d0fee11648c9aaae27af6fb38a6a_mv2.webp);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 .header{
-    background-color:black;
+    background-color: black;
     text-align: center;
     font-size: 20px;
     padding:20px ;
@@ -18,7 +17,8 @@ span{
     text-align: center;
 }
  a{
-     color: yellow;
+     color: rgb(255, 255, 76);
+     font-weight: bold;
      text-decoration: none;
      font-family: 'Courier New', Courier, monospace;
  }
@@ -185,7 +185,7 @@ img{
     background-color: black;
     margin-top: 0px;
     margin-bottom: 0px;
-    color: gold;
+    color: rgb(255, 255, 76);
     text-shadow: 1px 1px 0px white;
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
@@ -215,7 +215,7 @@ img{
     background-color: black;
     margin-top: 0px;
     margin-bottom: 0px;
-    color: gold;
+    color: rgb(255, 255, 76);
     text-align: justify;
     text-shadow: 1px 1px 0px white;
     font-size: 22px;
@@ -236,7 +236,7 @@ ul{
     padding-left: 40px;
 }
 li{
-    color: gold;
+    color: rgb(255, 255, 76);
     text-align: justify;
     text-shadow: 1px 1px 0px white;
     font-size: 22px;
